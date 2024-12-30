@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** currently p
 - 🌍 **Location**: Currently based in Berlin, Germany.
 - 💻 **Interests**: Software engineering, AI/ML, cloud computing, and data analytics.
 - 🌱 **Continuous Learning**: Constantly exploring emerging technologies and refining my expertise in software and cloud solutions.
-- ⚽ **Beyond Tech**: When I'm not coding, I enjoy playing football, exploring new cities, and diving into personal development books.
+- ⚽ **Beyond Tech**: Outside of my professional interests, I enjoy staying active through powerlifting and exploring nature during hikes. I also have a passion for traveling to new places, immersing myself in diverse cultures, and experimenting with cooking different cuisines, which allows me to connect with people and flavors from around the world.
 
 ---
 
