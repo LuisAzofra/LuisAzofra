@@ -37,13 +37,6 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** currently p
 
 ---
 
-## 📈 My GitHub Stats
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAzofra&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAzofra&layout=compact)
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 **Email**: [luis.azofra.begara@gmail.com](mailto:luis.azofra.begara@gmail.com)
